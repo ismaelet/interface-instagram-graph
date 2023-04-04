@@ -1,0 +1,8 @@
+{
+	"name": "ismaelet/interface-instagram-graph",
+	"autoload": {
+		"psr-4": {
+			"Ismaelet\\Interface\\Instagram\\Graph\\": "src"
+		}
+	}
+}
